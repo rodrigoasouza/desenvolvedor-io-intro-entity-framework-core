@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intro.entity.framework.core", "intro.entity.framework.core\intro.entity.framework.core.csproj", "{4011B92A-5C7A-4730-9FF4-E4B9D6035102}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro.Entity.Framework.Core", "intro.entity.framework.core\Intro.Entity.Framework.Core.csproj", "{4011B92A-5C7A-4730-9FF4-E4B9D6035102}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{3067422C-7510-44D0-9B84-16126A036CE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intro.entity.framework.core.Domain", "intro.entity.framework.core.Domain\intro.entity.framework.core.Domain.csproj", "{87A0D6B5-B54C-4DE9-B030-7C7B5CB1CD50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intro.Entity.Framework.Core.Domain", "intro.entity.framework.core.Domain\Intro.Entity.Framework.Core.Domain.csproj", "{87A0D6B5-B54C-4DE9-B030-7C7B5CB1CD50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
