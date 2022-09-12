@@ -6,7 +6,7 @@ namespace Intro.Entity.Framework.Core.Domain.Data
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;Data Source=RODRIGO-G15\SQLEXPRESS");
+            optionsBuilder.UseSqlServer(@"Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=desenvolvedor-io-ef-store;Data Source=RODRIGO-G15\SQLEXPRESS");
 
             base.OnConfiguring(optionsBuilder);
         }

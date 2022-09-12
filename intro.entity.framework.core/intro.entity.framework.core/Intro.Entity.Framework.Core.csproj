@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\intro.entity.framework.core.Domain\Intro.Entity.Framework.Core.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
